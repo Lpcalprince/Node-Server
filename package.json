@@ -1,0 +1,11 @@
+{
+  "name": "project3.1",
+  "version": "1.0.0",
+  "description": "simple server creation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Raju Sah",
+  "license": "ISC"
+}
